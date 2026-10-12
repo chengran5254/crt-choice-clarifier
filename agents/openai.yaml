@@ -1,0 +1,6 @@
+interface:
+  display_name: "CRT-选择澄清器"
+  short_description: "澄清选择中的偏好与底线，比较未来得失，给出有条件的建议或验证计划。"
+  default_prompt: "使用 $crt-choice-clarifier，帮助我完成对应任务。"
+policy:
+  allow_implicit_invocation: true
